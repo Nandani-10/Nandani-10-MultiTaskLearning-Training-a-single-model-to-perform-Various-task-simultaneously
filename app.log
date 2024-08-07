@@ -1,0 +1,36 @@
+2024-08-02 15:11:18,537 - INFO - Dataset loaded successfully.
+2024-08-02 15:11:22,830 - INFO - Cross-validation scores for Logistic Regression: [0.7877095  0.78089888 0.78651685 0.7752809  0.80337079]
+2024-08-02 15:11:36,499 - INFO - Dataset loaded successfully.
+2024-08-02 15:11:42,306 - INFO - Data visualization completed.
+2024-08-02 15:11:43,447 - INFO - Model trained (Logistic Regression). Accuracy: 79.89%
+2024-08-02 15:11:45,894 - INFO - Accuracy graph updated.
+2024-08-02 15:11:45,905 - INFO - Model Logistic Regression saved successfully.
+2024-08-02 15:11:47,133 - INFO - Cross-validation scores for Logistic Regression: [0.7877095  0.78089888 0.78651685 0.7752809  0.80337079]
+2024-08-02 15:11:50,397 - INFO - Model Logistic Regression saved successfully.
+2024-08-02 15:16:19,043 - INFO - Dataset loaded successfully.
+2024-08-02 15:16:27,117 - INFO - Data visualization completed.
+2024-08-02 15:17:12,960 - INFO - Cross-validation scores for Logistic Regression: [0.7877095  0.78089888 0.78651685 0.7752809  0.80337079]
+2024-08-02 15:17:18,365 - INFO - Model trained (Logistic Regression). Accuracy: 79.89%
+2024-08-02 15:17:20,422 - INFO - Accuracy graph updated.
+2024-08-02 15:17:20,422 - INFO - Model Logistic Regression saved successfully.
+2024-08-02 15:17:29,501 - INFO - Dataset loaded successfully.
+2024-08-02 15:22:33,757 - INFO - Dataset loaded successfully.
+2024-08-02 15:22:40,296 - INFO - Data visualization completed.
+2024-08-02 15:22:43,327 - INFO - Cross-validation scores for Logistic Regression: [0.7877095  0.78089888 0.78651685 0.7752809  0.80337079]
+2024-08-02 15:22:46,117 - INFO - Model Logistic Regression saved successfully.
+2024-08-02 15:32:49,296 - INFO - Dataset loaded successfully.
+2024-08-02 15:32:54,779 - INFO - Data visualization completed.
+2024-08-02 15:32:56,060 - INFO - Model trained (Logistic Regression). Accuracy: 79.89%
+2024-08-02 15:32:58,797 - INFO - Accuracy graph updated.
+2024-08-02 15:32:58,802 - INFO - Model Logistic Regression saved successfully.
+2024-08-02 15:32:59,504 - INFO - Cross-validation scores for Logistic Regression: [0.7877095  0.78089888 0.78651685 0.7752809  0.80337079]
+2024-08-02 15:33:07,772 - INFO - Image processed and displayed successfully.
+2024-08-02 18:00:30,784 - INFO - Dataset loaded successfully.
+2024-08-02 18:00:41,860 - INFO - Data visualization completed.
+2024-08-02 18:00:45,624 - INFO - Model trained (Logistic Regression). Accuracy: 79.89%
+2024-08-02 18:00:51,469 - INFO - Accuracy graph updated.
+2024-08-02 18:00:51,545 - INFO - Model Logistic Regression saved successfully.
+2024-08-02 18:00:58,199 - INFO - Cross-validation scores for Logistic Regression: [0.7877095  0.78089888 0.78651685 0.7752809  0.80337079]
+2024-08-02 18:01:09,853 - INFO - Model Logistic Regression saved successfully.
+2024-08-02 18:01:14,133 - INFO - Model Logistic Regression saved successfully.
+2024-08-02 18:01:52,780 - INFO - Image processed and displayed successfully.
